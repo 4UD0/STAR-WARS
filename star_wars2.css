@@ -1,0 +1,21 @@
+.background{
+    background-color: black;
+    margin: auto;
+    
+}
+#title{
+	color: yellow;
+	text-align: center;
+}
+.LMF{
+    color: rgb(52, 52, 252);
+    text-align: center;
+}
+.ADC{
+    color: goldenrod;
+    text-align: center;
+}
+.VDS{
+    color: red;
+    text-align: center;
+}

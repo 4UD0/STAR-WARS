@@ -1,0 +1,20 @@
+#background{
+	background-color: black;
+	margin: auto;
+}
+#title{
+	color: yellow;
+	text-align: center;
+}
+.RDF{
+	color: gold;
+	text-align: center;
+}
+.GUJ{
+	color: red;
+	text-align: center;
+}
+.ADS{
+	color: blue;
+	text-align: center;
+}
